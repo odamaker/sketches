@@ -1,5 +1,5 @@
 # sketches
-Examples of the usage of ESP8266 (Wemos D1 mini pro)
+Examples of the usage of ESP8266 (Wemos D1 mini pro) and get humidity from BMP280
 
 #Sources and references
 Get Started With A D1 Mini (ESP8266) In Under 5 Minutes!
@@ -14,3 +14,8 @@ Boards manager link: https://arduino.esp8266.com/stable/package_esp8266com_index
 
 #Tecnical specifications
 https://www.espressif.com/sites/default/files/documentation/esp8266-technical_reference_en.pdf
+
+#Library
+https://github.com/farmerkeith/BMP280-library
+
+Include the library as zip in arduino IDE
